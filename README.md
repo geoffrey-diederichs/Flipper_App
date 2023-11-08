@@ -1,2 +1,3 @@
-# Flipper_App
-Learning to code a Flipper Zero app
+# Flipper App
+
+Learning to program some Flipper Apps using `https://github.com/m1ch3al/flipper-zero-dev-tutorial`.
