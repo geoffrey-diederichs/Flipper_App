@@ -1,0 +1,10 @@
+# Requirements to run a flipper app
+
+App(
+	appid="hello_flipper", # Identifier for the flipper ecosystem
+	name="Hello Flipper", # Name of the app
+	apptype=FlipperAppType.EXTERNAL, # Type of app this is
+	entry_point="hello_flipper_main", # Main function to start the app with
+	stack_size=1 * 1024 # Size of stack needed by the app
+	fap_category="Dev", # Name of the category where the app will be located
+)
